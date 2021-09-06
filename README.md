@@ -3,7 +3,7 @@
 
 CANTIDAD DE PERSONAS QUÉ SALUDO CADA DÍA, EN UNA SEMANA
 
-[Recolección de datos](https://docs.google.com/spreadsheets/d/1U4QilCou5KV_FOSQ0X67Vdk6LR_x0UGP_jqQuR3ib_w/edit?usp=sharing)
+[Recolección de datos](datospersonales.csv)
 
 **Introducción**
 
