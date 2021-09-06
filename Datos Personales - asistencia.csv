@@ -1,0 +1,322 @@
+cod,Nombre,edad,rango edad,sexo,color de pelo,categoría,latitud,longitud,semana,dia semana,fecha,hora
+1,Santiago,52,40-60,M,morocho,familiar,-34.435106,-58.630925,Semana 1,lunes,23/08/2021,8:00
+2,Nancy,65,60-80,F,morocho,conocido,-34.435107,-58.630926,Semana 1,lunes,23/08/2021,9:00
+3,Mechi,47,40-60,F,morocho,familiar,-34.435105,-58.630926,Semana 1,lunes,23/08/2021,9:00
+4,Guardia 1,38,25-40,M,morocho,desconocido,-34.455191,-58.600571,Semana 1,lunes,23/08/2021,10:00
+5,Violeta,16,0-18,F,rubio,familiar,-34.435108,-58.630924,Semana 1,lunes,23/08/2021,17:00
+6,Martina,13,0-18,F,otro,familiar,-34.435108,-58.630927,Semana 1,lunes,23/08/2021,17:00
+7,Silvia,66,60-80,F,morocho,conocido,-34.435108,-58.630926,Semana 1,lunes,23/08/2021,9:20
+8,Malena,20,18-25,F,otro,amigo,-34.469712,-58.605032,Semana 1,lunes,23/08/2021,21:30
+9,Felicitas,20,18-25,F,morocho,conocido,-34.469712,-58.605031,Semana 1,lunes,23/08/2021,21:30
+10,Chiara,20,18-25,F,morocho ,amigo,-34.469713,-58.60503,Semana 1,lunes,23/08/2021,21:30
+11,Felicitas,20,18-25,F,rubio,amigo,-34.469714,-58.605029,Semana 1,lunes,23/08/2021,21:30
+12,Martina,20,18-25,F,rubio,amigo,-34.469715,-58.605032,Semana 1,lunes,23/08/2021,21:30
+13,Martina,20,18-25,F,rubio,amigo,-34.469715,-58.605035,Semana 1,lunes,23/08/2021,21:30
+14,Sofia,20,18-25,F,otro,amigo,-34.469715,-58.605035,Semana 1,lunes,23/08/2021,21:30
+15,Victoria,20,18-25,F,morocho,amigo,-34.469715,-58.605032,Semana 1,lunes,23/08/2021,21:30
+16,Manuela,20,18-25,F,rubio,amigo,-34.469715,-58.605031,Semana 1,lunes,23/08/2021,21:30
+17,Victoria,20,18-25,F,rubio,amigo,-34.469715,-58.60503,Semana 1,lunes,23/08/2021,21:30
+18,Paz,20,18-25,F,morocho,amigo,-34.469712,-58.605029,Semana 1,lunes,23/08/2021,21:30
+19,Josefina,20,18-25,F,morocho,amigo,-34.469712,-58.605032,Semana 1,lunes,23/08/2021,21:32
+20,Benito,21,18-25,M,morocho,conocido,-34.469713,-58.605035,Semana 1,lunes,23/08/2021,21:38
+21,Justo,21,18-25,M,morocho,conocido,-34.469714,-58.605038,Semana 1,lunes,23/08/2021,21:30
+22,Maximo,21,18-25,M,morocho,desconocido,-34.4697159,-58.605041,Semana 1,lunes,23/08/2021,21:30
+23,Joaquín,20,18-25,M,morocho,conocido,-34.435108,-58.605044,Semana 1,lunes,23/08/2021,21:30
+24,Segundo,19,18-25,M,morocho,conocido,-34.469712,-58.605032,Semana 1,lunes,23/08/2021,22:30
+25,Fernando,49,40-60,M,morocho,conocido,-34.469712,-58.605032,Semana 1,lunes,23/08/2021,21:30
+26,Dolores,47,40-60,F,morocho,conocido,-34.469712,-58.6050315,Semana 1,lunes,23/08/2021,21:53
+27,Nolo,49,40-60,M,otro,desconocido,-34.47076,-58.590443,Semana 1,lunes,23/08/2021,21:48
+28,Cuca,50,40-60,M,otro,conocido,-34.4697126,-58.605032,Semana 1,lunes,23/08/2021,22:30
+29,Sofia,47,40-60,F,rubio,conocido,-34.469712,-58.6050325,Semana 1,lunes,23/08/2021,22:52
+30,Guardia 2,36,25-40,M,rubio,desconocido,-34.474934,-58.63971,Semana 1,lunes,23/08/2021,23:30
+31,Santiago,52,40-60,M,morocho,familiar,-34.435108,-58.630926,Semana 1,martes,24/08/2021,8:00
+32,Nancy,65,60-80,F,morocho,conocido,-34.435108,-58.630926,Semana 1,martes,24/08/2021,9:00
+33,Mechi,47,40-60,F,morocho,familiar,-34.435108,-58.630926,Semana 1,martes,24/08/2021,9:00
+34,Violeta,16,0-18,F,rubio,familiar,-34.435108,-58.630924,Semana 1,martes,24/08/2021,17:00
+35,Martina,13,0-18,F,otro,familiar,-34.435108,-58.630927,Semana 1,martes,24/08/2021,17:00
+36,Guardia 1,38,25-40,M,morocho,desconocido,-34.451369,-58.650696,Semana 1,martes,24/08/2021,16:00
+37,Guardia 2,45,40-60,F,morocho ,desconocido,-34.467717,-58.654472,Semana 1,martes,24/08/2021,15:00
+38,Ignacio,22,18-25,M,morocho,conocido,-34.444219,-58.629611,Semana 1,martes,24/08/2021,15:49
+39,Silvia,66,60-80,F,morocho,conocido,-34.435108,-58.630926,Semana 1,martes,24/08/2021,10:00
+40,Santiago,52,40-60,M,morocho,familiar,-34.435108,-58.630926,Semana 1,miércoles,25/08/2021,8:00
+41,Nancy,65,60-80,F,morocho,conocido,-34.435108,-58.630926,Semana 1,miércoles,25/08/2021,8:20
+42,Mechi,47,40-60,F,morocho,familiar,-34.435108,-58.630926,Semana 1,miércoles,25/08/2021,9:00
+43,Guardia 1,38,25-40,M,morocho,desconocido,-34.474934,-58.596022,Semana 1,miércoles,25/08/2021,18:09
+44,Guardia 2,45,40-60,F,morocho ,desconocido,-34.459013,-58.581602,Semana 1,miércoles,25/08/2021,18:10
+45,Serena,19,18-25,F,otro,amigo,-34.440524,-58.630157,Semana 1,miércoles,25/08/2021,13:31
+46,Chiara,20,18-25,F,morocho,amigo,-34.440524,-58.630157,Semana 1,miércoles,25/08/2021,13:31
+47,Manuela,2,18-25,F,rubio,amigo,-34.440524,-58.630157,Semana 1,miércoles,25/08/2021,13:31
+48,Juana,21,18-25,F,rubio,desconocido,-34.441524,-58.631157,Semana 1,miércoles,25/08/2021,13:31
+49,Martina,20,18-25,F,rubio,amigo,-34.435108,-58.630926,Semana 1,miércoles,25/08/2021,18:05
+50,Camila,22,18-25,F,otro,amigo,-34.435108,-58.630926,Semana 1,miércoles,25/08/2021,18:05
+51,Delfina,20,18-25,F,morocho,amigo,-34.435108,-58.630926,Semana 1,miércoles,25/08/2021,18:05
+52,Clara,20,18-25,F,rubio,amigo,-34.427239,-58.591774,Semana 1,miércoles,25/08/2021,18:30
+53,Luisa,20,18-25,F,morocho,conocido,-34.427239,-58.591774,Semana 1,miércoles,25/08/2021,18:30
+54,Lucila,20,18-25,F,otro,conocido,-34.427239,-58.591774,Semana 1,miércoles,25/08/2021,18:30
+55,Lucia,19,18-25,F,morocho,desconocido,-34.479675,-58.577311,Semana 1,miércoles,25/08/2021,18:30
+56,Julieta,21,18-25,F,morocho,amigo,-34.427239,-58.591774,Semana 1,miércoles,25/08/2021,18:30
+57,Florencia,23,18-25,F,rubio,conocido,-34.427239,-58.591774,Semana 1,miércoles,25/08/2021,18:30
+58,Violeta,16,0-18,F,rubio,familiar,-34.435108,-58.630926,Semana 1,jueves,26/08/2021,17:00
+59,Martina,13,0-18,F,otro,familiar,-34.435108,-58.630926,Semana 1,viernes,27/08/2021,17:00
+60,Santiago,52,40-60,M,morocho,familiar,-34.435108,-58.630926,Semana 1,jueves,26/08/2021,8:00
+61,Nancy,65,60-80,F,morocho,conocido,-34.435399,-58.635786,Semana 1,jueves,26/08/2021,8:00
+62,Mechi,47,40-60,F,morocho,familiar,-34.435108,-58.630926,Semana 1,jueves,26/08/2021,10:00
+63,Silvia,66,60-80,F,morocho,conocido,-34.435399,-58.635786,Semana 1,jueves,26/08/2021,11:00
+64,Chiara,20,18-25,F,morocho ,amigo,-34.435108,-58.630926,Semana 1,jueves,26/08/2021,13:40
+65,Felicitas,20,18-25,F,rubio,amigo,-34.44538,-58.634676,Semana 1,jueves,26/08/2021,13:45
+66,Martina,20,18-25,F,rubio,amigo,-34.475905,-58.633006,Semana 1,jueves,26/08/2021,14:00
+67,Martina,20,18-25,F,rubio,amigo,-34.475905,-58.633006,Semana 1,jueves,26/08/2021,14:00
+68,Joaquin,19,18-25,M,morocho,conocido,-34.475905,-58.633006,Semana 1,jueves,26/08/2021,16:30
+69,Javier,51,40-60,M,morocho ,conocido,-34.475905,-58.633006,Semana 1,jueves,26/08/2021,16:30
+70,Santiago,23,18-25,M,otro,conocido,-34.475905,-58.633006,Semana 1,jueves,26/08/2021,17:15
+71,Guardia 1,38,25-40,M,morocho,desconocido,-34.487457,-58.616449,Semana 1,jueves,26/08/2021,18:45
+72,Guardia 2,45,40-60,F,morocho ,desconocido,-34.433248,-58.690264,Semana 1,jueves,26/08/2021,18:45
+73,Guardia 3,50,40-60,M,morocho ,desconocido,-34.464249,-58.731291,Semana 1,jueves,26/08/2021,13:50
+74,Violeta,16,0-18,F,rubio,familiar,-34.435108,-58.630926,Semana 1,jueves,26/08/2021,18:00
+75,Jacinta,16,0-18,F,otro,conocido,-34.435108,-58.630926,Semana 1,jueves,26/08/2021,18:00
+76,Manuela,20,18-25,F,rubio,amigo,-34.439784,-58.630156,Semana 1,jueves,26/08/2021,18:35
+77,Clara,20,18-25,F,otro,conocido,-34.439784,-58.630156,Semana 1,jueves,26/08/2021,23:25
+78,Azul,20,18-25,F,morocho,amigo,-34.439784,-58.630156,Semana 1,jueves,26/08/2021,19:35
+79,María,20,18-25,F,morocho,amigo,-34.439784,-58.630156,Semana 1,jueves,26/08/2021,21:30
+80,Malena,20,18-25,F,otro,amigo,-34.439784,-58.630156,Semana 1,jueves,26/08/2021,22:27
+81,Felicitas,20,18-25,F,morocho,conocido,-34.439784,-58.630156,Semana 1,jueves,26/08/2021,22:26
+82,Olivia,20,18-25,F,rubio,conocido,-34.439784,-58.630156,Semana 1,jueves,26/08/2021,22:26
+83,Sol,20,18-25,F,morocho,conocido,-34.439784,-58.630156,Semana 1,jueves,26/08/2021,21:52
+84,Belen,20,18-25,F,rubio,conocido,-34.439784,-58.630156,Semana 1,jueves,26/08/2021,22:26
+85,Sofia,20,18-25,F,otro,amigo,-34.439784,-58.630156,Semana 1,jueves,26/08/2021,21:30
+86,Victoria,20,18-25,F,morocho,amigo,-34.439784,-58.630156,Semana 1,jueves,26/08/2021,21:30
+87,Paz,20,18-25,F,morocho,amigo,-34.439784,-58.630156,Semana 1,jueves,26/08/2021,22:27
+88,Josefina,20,18-25,F,morocho,amigo,-34.439784,-58.630156,Semana 1,jueves,26/08/2021,22:27
+89,Martina,13,0-18,F,otro,familiar,-34.439784,-58.630156,Semana 1,jueves,26/08/2021,18:00
+90,Nancy,65,60-80,F,morocho,conocido,-34.435108,-58.630926,Semana 1,viernes,27/08/2021,8:00
+91,Mechi,47,40-60,F,morocho,familiar,-34.435108,-58.630926,Semana 1,viernes,27/08/2021,8:00
+92,Ignacio,22,18-25,M,morocho,conocido,-34.444219,-58.629611,Semana 1,viernes,27/08/2021,11:30
+93,Gloria,57,40-60,F,morocho,conocido,-34.444219,-58.629611,Semana 1,viernes,27/08/2021,11:30
+94,Celina,24,18-25,F,morocho,conocido,-34.444219,-58.629611,Semana 1,viernes,27/08/2021,11:30
+95,Juan Jose,66,60-80,M,otro,conocido,-34.444219,-58.629611,Semana 1,viernes,27/08/2021,11:30
+96,María,20,18-25,F,morocho,amigo,-34.440715,-58.630737,Semana 1,viernes,27/08/2021,6:23
+97,Malena,20,18-25,F,otro,amigo,-34.440715,-58.630737,Semana 1,viernes,27/08/2021,6:35
+98,Felicitas,20,18-25,F,morocho,conocido,-34.440715,-58.630737,Semana 1,viernes,27/08/2021,6:35
+99,Chiara,20,18-25,F,morocho ,amigo,-34.436322,-58.63042,Semana 1,viernes,27/08/2021,6:35
+100,Felicitas,20,18-25,F,rubio,amigo,-34.440715,-58.630737,Semana 1,viernes,27/08/2021,6:35
+101,Martina,20,18-25,F,rubio,amigo,-34.440715,-58.630737,Semana 1,viernes,27/08/2021,6:35
+102,Martina,20,18-25,F,rubio,amigo,-34.436322,-58.63042,Semana 1,viernes,27/08/2021,6:35
+103,Sofia,20,18-25,F,otro,amigo,-34.441304,-58.626655,Semana 1,viernes,27/08/2021,7:42
+104,Victoria,20,18-25,F,morocho,amigo,-34.441304,-58.626655,Semana 1,viernes,27/08/2021,7:42
+105,Manuela,20,18-25,F,rubio,amigo,-34.436322,-58.63042,Semana 1,viernes,27/08/2021,6:35
+106,Guardia 1,28,25-40,F,rubio,desconocido,-34.424896,-58.608458,Semana 1,viernes,27/08/2021,2:27
+107,Guardia 2,27,18-25,F,otro,desconocido,-34.432109,-58.614101,Semana 1,viernes,27/08/2021,2:27
+108,Julieta,21,18-25,F,morocho,amigo,-34.436322,-58.63042,Semana 1,viernes,27/08/2021,21:58
+109,Victoria,20,18-25,F,rubio,amigo,-34.436322,-58.63042,Semana 1,viernes,27/08/2021,21:18
+110,Violeta,16,0-18,F,rubio,familiar,-34.435108,-58.630926,Semana 1,viernes,27/08/2021,2:35
+111,Martina,13,0-18,F,otro,familiar,-34.435108,-58.630926,Semana 1,viernes,27/08/2021,8:00
+112,Sol,17,0-18,F,rubio,conocido,-34.436322,-58.63042,Semana 1,viernes,27/08/2021,18:28
+113,Inés,56,40-60,F,otro,conocido,-34.43888,-58.627213,Semana 1,viernes,27/08/2021,18:28
+114,Fernando,55,40-60,M,rubio,conocido,-34.43888,-58.63042,Semana 1,viernes,27/08/2021,18:28
+115,María,49,40-60,F,rubio,desconocido,-34.436322,-58.63042,Semana 1,viernes,27/08/2021,18:28
+116,Luis,53,40-60,M,otro,conocido,-34.440715,-58.630737,Semana 1,viernes,27/08/2021,19:13
+117,Santiago,52,40-60,M,morocho,familiar,-34.435108,-58.630926,Semana 1,viernes,27/08/2021,8:00
+118,Santiago,52,40-60,M,morocho,familiar,-34.435108,-58.630926,Semana 1,sábado,28/08/2021,9:50
+119,Violeta,16,0-18,F,rubio,familiar,-34.435108,-58.630926,Semana 1,sábado,28/08/2021,10:09
+120,Mercedes,47,40-60,F,morocho,familiar,-34.435108,-58.630926,Semana 1,sábado,28/08/2021,9:50
+121,Martina,13,0-18,F,otro,familiar,-34.435108,-58.630926,Semana 1,sábado,28/08/2021,10:09
+122,Ignacio,22,18-25,M,morocho,conocido,-34.435108,-58.630926,Semana 1,sábado,28/08/2021,10:21
+123,Guardia 1,54,40-60,F,morocho,desconocido,-34.450349,-58.631136,Semana 1,sábado,28/08/2021,10:30
+124,Clara,22,18-25,F,morocho,conocido,-34.496365,-58.558731,Semana 1,sábado,28/08/2021,17:36
+125,Juan,20,18-25,M,morocho,amigo,-34.496365,-58.558731,Semana 1,sábado,28/08/2021,17:36
+126,Guillermina,20,18-25,F,morocho,amigo,-34.496365,-58.558731,Semana 1,sábado,28/08/2021,17:36
+127,Trinidad,21,18-25,F,morocho,conocido,-34.496365,-58.558731,Semana 1,sábado,28/08/2021,17:36
+128,Facundo,20,18-25,M,morocho,conocido,-34.496365,-58.558731,Semana 1,sábado,28/08/2021,17:36
+129,Tomas,24,18-25,M,morocho,conocido,-34.496365,-58.558731,Semana 1,sábado,28/08/2021,17:36
+130,Nicolás,20,18-25,M,morocho,amigo,-34.496365,-58.558731,Semana 1,sábado,28/08/2021,17:36
+131,Agustina,20,18-25,F,otro,amigo,-34.496365,-58.558731,Semana 1,sábado,28/08/2021,17:36
+132,Ines,19,18-25,F,otro,conocido,-34.496365,-58.558731,Semana 1,sábado,28/08/2021,17:36
+133,Manuela,20,18-25,F,rubio,amigo,-34.496365,-58.558731,Semana 1,sábado,28/08/2021,17:36
+134,Gregorio,20,18-25,M,rubio,amigo,-34.496365,-58.558731,Semana 1,sábado,28/08/2021,17:36
+135,Pedro,19,18-25,M,morocho,conocido,-34.496365,-58.558731,Semana 1,sábado,28/08/2021,17:36
+136,Segundo,20,18-25,M,morocho,conocido,-34.496365,-58.558731,Semana 1,sábado,28/08/2021,17:36
+137,Juana,18,18-25,F,morocho,conocido,-34.496365,-58.558731,Semana 1,sábado,28/08/2021,17:36
+138,Felicitas,20,18-25,F,morocho,amigo,-34.496365,-58.558731,Semana 1,sábado,28/08/2021,17:36
+139,Pilar,23,18-25,F,morocho,conocido,-34.496365,-58.558731,Semana 1,sábado,28/08/2021,17:36
+140,Santos,20,18-25,M,rubio,conocido,-34.496365,-58.558731,Semana 1,sábado,28/08/2021,17:36
+141,Clara,22,18-25,F,morocho,conocido,-34.496365,-58.558731,Semana 1,sábado,28/08/2021,17:36
+142,Guardia 2,49,40-60,M,morocho,desconocido,-34.450685,-58.634355,Semana 1,sábado,28/08/2021,20:11
+143,Belen,18,18-25,F,morocho,amigo,-34.496365,-58.558731,Semana 1,sábado,28/08/2021,18:32
+144,Azul,20,18-25,F,morocho,amigo,-34.496365,-58.558731,Semana 1,sábado,28/08/2021,18:32
+145,Segundo,19,18-25,M,morocho,amigo,-34.496365,-58.558731,Semana 1,sábado,28/08/2021,18:32
+146,Gloria,58,40-60,F,morocho,conocido,-34.444219,-58.629611,Semana 1,sábado,28/08/2021,21:04
+147,Celina,24,18-25,F,morocho,conocido,-34.444219,-58.629611,Semana 1,sábado,28/08/2021,21:04
+148,Juan Jose,66,60-80,M,otro,conocido,-34.444219,-58.629611,Semana 1,sábado,28/08/2021,21:04
+149,Carola,20,18-25,F,morocho,amigo,-34.496365,-58.558731,Semana 1,sábado,28/08/2021,17:36
+150,Guido,48,40-60,M,otro,conocido,-34.496365,-58.558731,Semana 1,sábado,28/08/2021,19:44
+151,Juana,19,18-25,F,rubio,conocido,-34.496365,-58.558731,Semana 1,sábado,28/08/2021,19:44
+152,Josefina,20,18-25,F,morocho,amigo,-34.496365,-58.558731,Semana 1,sábado,28/08/2021,18:39
+153,Lucas,20,18-25,M,rubio,conocido,-34.496365,-58.558731,Semana 1,sábado,28/08/2021,18:39
+154,Tomas,20,18-25,M,morocho,amigo,-34.496365,-58.558731,Semana 1,sábado,28/08/2021,18:39
+155,Gonzalo,20,18-25,M,morocho,amigo,-34.496365,-58.558731,Semana 1,sábado,28/08/2021,18:39
+156,Sofía,21,18-25,F,rubio,amigo,-34.496365,-58.558731,Semana 1,sábado,28/08/2021,18:39
+157,Sofía,19,18-25,F,morocho,conocido,-34.496365,-58.558731,Semana 1,sábado,28/08/2021,18:39
+158,Valentina,17,0-18,F,morocho,desconocido,-34.496365,-58.558731,Semana 1,sábado,28/08/2021,18:35
+159,Santiago,52,40-60,M,morocho,familiar,-34.435108,-58.630926,Semana 1,domingo,29/08/2021,11:00
+160,Violeta,16,0-18,F,rubio,familiar,-34.435108,-58.630926,Semana 1,domingo,29/08/2021,11:00
+161,Mercedes,47,40-60,F,morocho,familiar,-34.435108,-58.630926,Semana 1,domingo,29/08/2021,11:00
+162,Martina,13,0-18,F,otro,familiar,-34.435108,-58.630926,Semana 1,domingo,29/08/2021,11:00
+163,Guardia 1,53,40-60,F,otro,desconocido,-34.422184,-58.6614,Semana 1,domingo,29/08/2021,13:15
+164,Trabajador 1,28,25-40,F,rubio,desconocido,-34.436866,-58.822171,Semana 1,domingo,29/08/2021,11:20
+165,Trabajador 2,26,25-40,M,morocho,desconocido,-34.436866,-58.822171,Semana 1,domingo,29/08/2021,11:22
+166,Trabajador 3,24,18-25,M,morocho,desconocido,-34.436866,-58.822371,Semana 1,domingo,29/08/2021,11:25
+167,Trabajador 4,23,18-25,F,morocho,desconocido,-34.436866,-58.822161,Semana 1,domingo,29/08/2021,11:41
+168,Persona 1,29,25-40,M,morocho,desconocido,-34.436866,-58.822172,Semana 1,domingo,29/08/2021,11:40
+169,Dolores,51,40-60,F,morocho,familiar,-34.422703,-58.65542,Semana 1,domingo,29/08/2021,13:34
+170,Gonzalo,51,40-60,M,otro,familiar,-34.422703,-58.65542,Semana 1,domingo,29/08/2021,13:34
+171,Susana,74,60-80,F,otro,familiar,-34.422703,-58.65542,Semana 1,domingo,29/08/2021,13:34
+172,Carlos Ernesto,76,60-80,M,otro,familiar,-34.422703,-58.65542,Semana 1,domingo,29/08/2021,13:34
+173,Carlos,47,40-60,M,rubio,familiar,-34.422703,-58.65542,Semana 1,domingo,29/08/2021,13:34
+174,Felicitas,7,0-18,F,rubio,familiar,-34.422703,-58.65542,Semana 1,domingo,29/08/2021,13:34
+175,Margarita,7,0-18,F,morocho,familiar,-34.422703,-58.65542,Semana 1,domingo,29/08/2021,13:34
+176,Ignacio,22,18-25,M,morocho,conocido,-34.435108,-58.630926,Semana 1,domingo,29/08/2021,13:15
+177,Guardia 2,49,40-60,M,morocho,desconocido,-34.420408,-58.664009,Semana 1,domingo,29/08/2021,13:10
+178,Nancy,65,60-80,F,morocho,conocido,-34.435108,-58.630926,Semana 2,lunes,30/08/2021,8:50
+179,Mechi,47,40-60,F,morocho,familiar,-34.435108,-58.630926,Semana 2,lunes,30/08/2021,8:50
+180,Martina,13,0-18,F,otro,familiar,-34.439784,-58.630156,Semana 2,lunes,30/08/2021,17:30
+181,Violeta,16,0-18,F,rubio,familiar,-34.439784,-58.630156,Semana 2,lunes,30/08/2021,17:30
+182,Ignacio,22,18-25,M,morocho,conocido,-34.435108,-58.630926,Semana 2,lunes,30/08/2021,18:24
+183,Felicitas,20,18-25,F,rubio,amigo,-34.446317,-58.632965,Semana 2,lunes,30/08/2021,13:47
+184,Victoria,20,18-25,F,morocho,amigo,-34.439784,-58.630156,Semana 2,lunes,30/08/2021,13:33
+185,Eugenia,48,40-60,F,rubio,conocido,-34.446317,-58.632965,Semana 2,lunes,30/08/2021,13:47
+186,Juan Manuel,51,40-60,M,morocho,conocido,-34.446317,-58.632965,Semana 2,lunes,30/08/2021,13:47
+187,Manuel,18,18-25,M,morocho,conocido,-34.446317,-58.632965,Semana 2,lunes,30/08/2021,13:47
+188,Sofia,20,18-25,F,morocho,amigo,-34.439959,-58.635496,Semana 2,lunes,30/08/2021,13:36
+189,Martina,20,18-25,F,rubio,amigo,-34.446318,-58.632975,Semana 2,lunes,30/08/2021,15:07
+190,Sofía,20,18-25,F,otro,amigo,-34.446318,-58.632975,Semana 2,lunes,30/08/2021,15:07
+191,Nancy,65,60-80,F,morocho,conocido,-34.435108,-58.630926,Semana 2,martes,31/08/2021,8:30
+192,Mechi,47,40-60,F,morocho,familiar,-34.435108,-58.630926,Semana 2,martes,31/08/2021,9:00
+193,Martina,13,0-18,F,otro,familiar,-34.438233,-58.632877,Semana 2,martes,31/08/2021,7:11
+194,Violeta,16,0-18,F,rubio,familiar,-34.438233,-58.632877,Semana 2,martes,31/08/2021,7:14
+195,María,20,18-25,F,morocho,amigo,-34.401599,-58.637543,Semana 2,martes,31/08/2021,19:20
+196,Sofía,20,18-25,F,morocho,amigo,-34.54106,-58.494186,Semana 2,martes,31/08/2021,19:20
+197,Josefina,20,18-25,F,morocho,amigo,-34.472702,-58.60971,Semana 2,martes,31/08/2021,19:20
+198,Nicolas,28,25-40,M,otro,desconocido,-34.424896,-58.608458,Semana 2,martes,31/08/2021,19:41
+199,Valeria,42,40-60,F,morocho,desconocido,-34.432109,-58.614101,Semana 2,martes,31/08/2021,18:34
+200,Gonzalo,58,40-60,M,otro,desconocido,-34.432109,-58.615101,Semana 2,martes,31/08/2021,18:42
+201,Martina,13,0-18,F,otro,familiar,-34.438233,-58.632877,Semana 2,miércoles,01/09/2021,18:05
+202,Violeta,16,0-18,F,rubio,familiar,-34.438233,-58.632877,Semana 2,miércoles,01/09/2021,18:05
+203,Delfina,20,18-25,F,morocho,amigo,-34.435108,-58.630926,Semana 2,miércoles,01/09/2021,18:05
+204,Clara,20,18-25,F,rubio,amigo,-34.427239,-58.591774,Semana 2,miércoles,01/09/2021,18:30
+205,Luisa,20,18-25,F,morocho,conocido,-34.427239,-58.591774,Semana 2,miércoles,01/09/2021,18:30
+206,Lucila,20,18-25,F,otro,conocido,-34.427239,-58.591774,Semana 2,miércoles,01/09/2021,18:30
+207,Lucia,19,18-25,F,morocho,desconocido,-34.427239,-58.591774,Semana 2,miércoles,01/09/2021,18:30
+208,Julieta,21,18-25,F,morocho,amigo,-34.427239,-58.591774,Semana 2,miércoles,01/09/2021,18:30
+209,Florencia,23,18-25,F,rubio,conocido,-34.427239,-58.591774,Semana 2,miércoles,01/09/2021,18:30
+210,Violeta,16,0-18,F,rubio,familiar,-34.433496,-58.62904,Semana 2,miércoles,01/09/2021,8:30
+211,Martina,13,0-18,F,otro,familiar,-34.433496,-58.62904,Semana 2,miércoles,01/09/2021,8:30
+212,Nancy,65,60-80,F,morocho,conocido,-34.435107,-58.630926,Semana 2,miércoles,01/09/2021,9:30
+213,Pablo,68,60-80,M,otro,conocido,-34.435107,-58.630926,Semana 2,miércoles,01/09/2021,9:47
+214,Felicitas,20,18-25,F,rubio,amigo,-34.429742,-58.620207,Semana 2,miércoles,01/09/2021,10:04
+215,Mechi,47,40-60,F,morocho,familiar,-34.435108,-58.630926,Semana 2,miércoles,01/09/2021,10:00
+216,Malena,21,18-25,F,otro,amigo,-34.44036,-58.654926,Semana 2,miércoles,01/09/2021,22:22
+217,Chiara,20,18-25,F,morocho,amigo,-34.44036,-58.654926,Semana 2,miércoles,01/09/2021,22:07
+218,Josefina,20,18-25,F,morocho,amigo,-34.44036,-58.654926,Semana 2,miércoles,01/09/2021,22:48
+219,Victoria,20,18-25,F,morocho,amigo,-34.44036,-58.654926,Semana 2,miércoles,01/09/2021,22:11
+220,Victoria,20,18-25,F,rubio,amigo,-34.44036,-58.654926,Semana 2,miércoles,01/09/2021,22:21
+221,Ignacio,22,18-25,M,morocho,conocido,-34.436326,-58.631666,Semana 2,miércoles,01/09/2021,13:09
+222,Guardia,37,25-40,M,morocho,desconocido,-34.452535,-58.616559,Semana 2,miércoles,01/09/2021,22:11
+223,Nancy,65,60-80,F,morocho,conocido,-34.435399,-58.635786,Semana 2,jueves,02/09/2021,10:12
+224,Mechi,47,40-60,F,morocho,familiar,-34.435108,-58.630926,Semana 2,jueves,02/09/2021,9:35
+225,Silvia,66,60-80,F,morocho,conocido,-34.435399,-58.635786,Semana 2,jueves,02/09/2021,9:49
+226,Sofia,20,18-25,F,otro,amigo,-34.466601,-58.556508,Semana 2,jueves,02/09/2021,12:40
+227,Manuela,20,18-25,F,otro,amigo,-34.466601,-58.556508,Semana 2,jueves,02/09/2021,12:40
+228,Martina,20,18-25,F,rubio,amigo,-34.466601,-58.556508,Semana 2,jueves,02/09/2021,12:40
+229,Felicitas,20,18-25,F,rubio,amigo,-34.466601,-58.556508,Semana 2,jueves,02/09/2021,12:40
+230,María,20,18-25,F,morocho,amigo,-34.466601,-58.556508,Semana 2,jueves,02/09/2021,13:10
+231,Olivia,20,18-25,F,morocho,amigo,-34.466601,-58.556508,Semana 2,jueves,02/09/2021,13:10
+232,Victoria,20,18-25,F,rubio,amigo,-34.466601,-58.556508,Semana 2,jueves,02/09/2021,13:10
+233,Chiara,20,18-25,F,morocho,amigo,-34.466601,-58.556508,Semana 2,jueves,02/09/2021,13:10
+234,Azul,20,18-25,F,morocho,amigo,-34.466601,-58.556508,Semana 2,jueves,02/09/2021,13:10
+235,Martina,20,18-25,F,rubio,amigo,-34.466601,-58.556508,Semana 2,jueves,02/09/2021,13:10
+236,Milagros,20,18-25,F,morocho,amigo,-34.466601,-58.556508,Semana 2,jueves,02/09/2021,13:10
+237,Victoria,20,18-25,F,morocho,amigo,-34.468182,-58.606888,Semana 2,jueves,02/09/2021,20:52
+238,Sol,20,18-25,F,morocho,conocido,-34.468182,-58.606888,Semana 2,jueves,02/09/2021,21:52
+239,Malena,20,18-25,F,otro,amigo,-34.466601,-58.556508,Semana 2,jueves,02/09/2021,13:30
+240,Delfina,20,18-25,F,morocho,amigo,-34.468182,-58.606888,Semana 2,jueves,02/09/2021,21:12
+241,Luisa,19,18-25,F,rubio,desconocido,-34.468182,-58.606888,Semana 2,jueves,02/09/2021,21:12
+242,María,57,40-60,F,morocho,conocido,-34.468182,-58.606888,Semana 2,jueves,02/09/2021,21:15
+243,Fermín,19,18-25,M,otro,desconocido,-34.447465,-58.691115,Semana 2,jueves,02/09/2021,22:10
+244,Julieta,21,18-25,F,morocho,amigo,-34.468182,-58.606888,Semana 2,jueves,02/09/2021,21:12
+245,Guardia 1,38,25-40,M,morocho,desconocido,-34.455191,-58.600571,Semana 2,jueves,02/09/2021,15:05
+246,Guardia 2,45,40-60,M,morocho ,desconocido,-34.4697159,-58.605041,Semana 2,jueves,02/09/2021,19:45
+247,Sofía,20,18-25,F,morocho,amigo,-34.538345,-58.494385,Semana 2,jueves,02/09/2021,16:15
+248,Lucía,23,18-25,F,morocho,conocido,-34.538345,-58.494385,Semana 2,jueves,02/09/2021,17:15
+249,Santiago,18,18-25,M,morocho,desconocido,-34.538345,-58.494385,Semana 2,jueves,02/09/2021,17:15
+250,Alejandro,59,40-60,M,otro,desconocido,-34.538345,-58.494385,Semana 2,jueves,02/09/2021,17:15
+251,Ariela,55,40-60,F,morocho,desconocido,-34.538345,-58.494385,Semana 2,jueves,02/09/2021,17:15
+252,Abuelo 1,67,60-80,M,otro,desconocido,-34.538424,-58.493988,Semana 2,jueves,02/09/2021,16:15
+253,Pablo,58,40-60,M,otro,conocido,-34.468182,-58.606888,Semana 2,jueves,02/09/2021,22:10
+254,Anita,14,0-18,F,morocho,conocido,-34.468182,-58.606888,Semana 2,jueves,02/09/2021,22:57
+255,Pia,16,0-18,F,morocho,conocido,-34.468182,-58.606888,Semana 2,jueves,02/09/2021,22:55
+256,Martina,13,0-18,F,otro,familiar,-34.438233,-58.632877,Semana 2,viernes,02/09/2021,17:15
+257,Violeta,16,0-18,F,rubio,familiar,-34.438233,-58.632877,Semana 2,viernes,02/09/2021,17:15
+258,Gloria,58,40-60,F,morocho,conocido,-34.4443,-58.628161,Semana 2,viernes,03/09/2021,10:34
+259,Celina,24,18-25,F,morocho,conocido,-34.444135,-58.628061,Semana 2,viernes,03/09/2021,10:45
+260,Juan Jose,66,60-80,M,otro,conocido,-34.4441223,-58.628061,Semana 2,viernes,03/09/2021,11:20
+261,Ignacio,22,18-25,M,morocho,conocido,-34.44413,-58.629061,Semana 2,viernes,03/09/2021,10:21
+262,Nancy,65,60-80,F,morocho,conocido,-34.435399,-58.635786,Semana 2,viernes,03/09/2021,10:12
+263,Mechi,47,40-60,F,morocho,familiar,-34.435108,-58.630926,Semana 2,viernes,03/09/2021,9:35
+264,Silvia,66,60-80,F,morocho,conocido,-34.435399,-58.635786,Semana 2,viernes,03/09/2021,9:49
+265,Martina,13,0-18,F,otro,familiar,-34.438233,-58.632877,Semana 2,viernes,03/09/2021,18:05
+266,Violeta,16,0-18,F,rubio,familiar,-34.438233,-58.632877,Semana 2,viernes,03/09/2021,18:05
+267,Guardia 1,38,25-40,M,morocho ,desconocido,-34.455191,-58.600571,Semana 2,viernes,03/09/2021,19:02
+268,Tomas,24,18-25,M,morocho,conocido,-34.495421,-58.56382,Semana 2,viernes,03/09/2021,20:05
+269,Nicolás,20,18-25,M,morocho,amigo,-34.495421,-58.56382,Semana 2,viernes,03/09/2021,21:15
+270,Agustina,20,18-25,F,otro,amigo,-34.495421,-58.56382,Semana 2,viernes,03/09/2021,19:15
+271,Guillermina,2,18-25,F,morocho,amigo,-34.495421,-58.56382,Semana 2,viernes,03/09/2021,19:55
+272,Manuela,20,18-25,F,otro,amigo,-34.495421,-58.56382,Semana 2,viernes,03/09/2021,18:45
+273,Gregorio,20,18-25,M,rubio,amigo,-34.495421,-58.56382,Semana 2,viernes,03/09/2021,19:02
+274,Sofía,21,18-25,F,otro,amigo,-34.495421,-58.56382,Semana 2,viernes,03/09/2021,19:15
+275,Matías,21,18-25,M,morocho,conocido,-34.495421,-58.56382,Semana 2,viernes,03/09/2021,20:35
+276,Juan,20,18-25,M,morocho,amigo,-34.495421,-58.56382,Semana 2,viernes,03/09/2021,20:05
+277,Felicitas,20,18-25,F,morocho,amigo,-34.495421,-58.56382,Semana 2,viernes,03/09/2021,19:41
+278,Trinidad,22,18-25,F,otro,conocido,-34.495421,-58.56382,Semana 2,viernes,03/09/2021,19:56
+279,Gonzalo,21,18-25,M,morocho,amigo,-34.495421,-58.56382,Semana 2,viernes,03/09/2021,19:25
+280,Consuelo,23,18-25,F,otro,conocido,-34.495421,-58.56382,Semana 2,viernes,03/09/2021,21:43
+281,Sofía,24,18-25,F,rubio,desconocido,-34.495421,-58.56382,Semana 2,viernes,03/09/2021,21:43
+282,Segundo,21,18-25,M,morocho,desconocido,-34.495421,-58.56382,Semana 2,viernes,03/09/2021,20:35
+283,Simón,20,18-25,M,morocho,amigo,-34.495421,-58.56382,Semana 2,viernes,03/09/2021,0:59
+284,Tatiana,20,18-25,F,morocho,amigo,-34.495421,-58.56382,Semana 2,viernes,03/09/2021,21:01
+285,Andrés,20,18-25,M,morocho,conocido,-34.495421,-58.56382,Semana 2,viernes,03/09/2021,21:01
+286,Valentina,20,18-25,F,rubio,conocido,-34.495421,-58.56382,Semana 2,viernes,03/09/2021,20:02
+287,Belén,19,18-25,F,morocho,amigo,-34.495421,-58.56382,Semana 2,viernes,03/09/2021,19:24
+288,Andrea,57,40-60,F,morocho,conocido,-34.495421,-58.56382,Semana 2,viernes,03/09/2021,19:24
+289,Josefina,20,18-25,F,morocho,amigo,-34.495421,-58.56382,Semana 2,viernes,03/09/2021,21:43
+290,Pato,21,18-25,M,morocho,desconocido,-34.474934,-58.63971,Semana 2,viernes,03/09/2021,0:59
+291,Rafa,20,18-25,M,morocho,desconocido,-34.474834,-58.63971,Semana 2,viernes,03/09/2021,0:59
+292,Alfonso,20,18-25,M,morocho,desconocido,-34.474934,-58.64071,Semana 2,viernes,03/09/2021,0:59
+293,Nicolas,22,18-25,M,rubio,desconocido,-34.474934,-58.63981,Semana 2,viernes,03/09/2021,0:59
+294,Santiago,21,18-25,M,morocho,desconocido,-34.439345,-58.63097,Semana 2,viernes,03/09/2021,0:59
+295,Mateo,22,18-25,M,morocho,desconocido,-34.439345,-58.63097,Semana 2,viernes,03/09/2021,0:59
+296,Lucas,21,18-25,M,rubio,conocido,-34.439345,-58.63097,Semana 2,viernes,03/09/2021,0:59
+297,Lizardo,22,18-25,M,rubio,desconocido,-34.439345,-58.63097,Semana 2,viernes,03/09/2021,0:59
+298,Camila,20,18-25,F,morocho,conocido,-34.495421,-58.56382,Semana 2,viernes,03/09/2021,19:24
+299,Ignacio,22,18-25,M,morocho,conocido,-34.436428,-58.631032,Semana 2,sábado,04/09/2021,14:27
+300,Mechi,47,40-60,F,morocho,familiar,-34.435108,-58.630926,Semana 2,sábado,04/09/2021,14:01
+301,Martina,13,0-18,F,otro,familiar,-34.43642,-58.631032,Semana 2,sábado,04/09/2021,13:36
+302,Violeta,16,0-18,F,rubio,familiar,-34.435108,-58.632877,Semana 2,sábado,04/09/2021,19:15
+303,Chiara,20,18-25,F,morocho,amigo,-34.468564,-58.606367,Semana 2,sábado,04/09/2021,20:53
+304,Milagros,20,18-25,F,morocho,amigo,-34.468564,-58.606367,Semana 2,sábado,04/09/2021,21:15
+305,Malena,21,18-25,F,otro,amigo,-34.468564,-58.606367,Semana 2,sábado,04/09/2021,23:11
+306,Anita,20,18-25,F,rubio,amigo,-34.468564,-58.606367,Semana 2,sábado,04/09/2021,21:15
+307,Felicitas,20,18-25,F,rubio,amigo,-34.468564,-58.606367,Semana 2,sábado,04/09/2021,21:01
+308,Sofía,20,18-25,F,otro,amigo,-34.468564,-58.606367,Semana 2,sábado,04/09/2021,20:57
+309,Guardia 1,38,25-40,M,morocho,desconocido,-34.475905,-58.633006,Semana 2,sábado,04/09/2021,21:12
+310,Guardia 2,45,40-60,F,morocho ,desconocido,-34.475916,-58.634106,Semana 2,sábado,04/09/2021,0:50
+311,Guardia 3,52,40-60,M,otro,desconocido,-34.468574,-58.607367,Semana 2,sábado,04/09/2021,21:17
+312,Gloria,58,40-60,F,morocho,conocido,-34.4443,-58.628161,Semana 2,domingo,05/09/2021,12:20
+313,Celina,24,18-25,F,morocho,conocido,-34.444135,-58.628061,Semana 2,domingo,05/09/2021,12:22
+314,Juan Jose,66,60-80,M,otro,conocido,-34.4441223,-58.630061,Semana 2,domingo,05/09/2021,12:15
+315,Ignacio,22,18-25,M,morocho,conocido,-34.444213,-58.629061,Semana 2,domingo,05/09/2021,10:34
+316,Mechi,47,40-60,F,morocho,familiar,-34.435108,-58.630926,Semana 2,domingo,05/09/2021,9:52
+317,Martina,13,0-18,F,otro,familiar,-34.43642,-58.631032,Semana 2,domingo,05/09/2021,9:51
+318,Violeta,16,0-18,F,rubio,familiar,-34.435108,-58.632877,Semana 2,domingo,05/09/2021,10:27
+319,Martina,16,0-18,F,rubio,conocido,-34.46642,-58.63132,Semana 2,domingo,05/09/2021,10:27
+320,Abuelo 1,67,60-80,F,rubio,desconocido,-34.443488,-58.629852,Semana 2,domingo,05/09/2021,14:51
+321,Abuelo 2,73,60-80,M,otro,desconocido,-34.443302,-58.629852,Semana 2,domingo,05/09/2021,14:51
