@@ -28,8 +28,12 @@ Cada uno de estos datos fue obtenido empíricamente. Cabe destacar que el nombre
 
 ##
 **Se quiere mostrar**
-un análisis de las características de las personas que son saludadas, como por ejemplo cuántas de ellas son mujeres o cuántas son varones, como son sus edades y a que rango pertenecen, cuál es su color de pelo, o cuántas de estas son consideradas como conocidos o desconocidos, entre otras.
+un análisis de las características de las personas que son saludadas, como cuántas de ellas son mujeres o cuántas son varones, como son sus edades y a que rango pertenecen, cuál es su color de pelo, o cuántas de estas son consideradas como conocidos o desconocidos, entre otras.
 
-Por ejemplo, al cabo de la primer semana 
+A modo de ejemplo, se podría mencionar un dato sumamente destacable, y este es que al cabo de la primer semana casi un 70 % de las personas que saludé fueron mujeres, siendo así el 30 % restante hombres.
 
-![image](mujeresvshombres.png)
+![porcentaje de mujeres saludadas](mujeresvshombres.png)
+
+Además, es interesante poder notar en que rango de edad caen las personas que saludo. Si están ubicadas dentro de los menores de 18 años (0-18), o son personas entre los 18 y 25 (mi rango de edad), o si son adultos mayores a 40 años, por ejemplo.
+
+![personas por rango de edad](rangoedad.png)
