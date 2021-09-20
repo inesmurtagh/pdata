@@ -34,7 +34,7 @@ un análisis de las características de las personas que son saludadas, como cu�
 
 A modo de ejemplo, se podría mencionar un dato sumamente destacable, y este es que al cabo de la primer semana casi un 70 % de las personas que saludé fueron mujeres, siendo así el 30 % restante hombres.
 
-![porcentaje de mujeres saludadas](mujeresvshombres.png)
+![porcentaje de mujeres saludadas](porcentajemujeres.png)
 
 Además, es interesante poder notar en que rango de edad caen las personas que saludo. Si están ubicadas dentro de los menores de 18 años (0-18), o son personas entre los 18 y 25 (mi rango de edad), si son adultos entre los 24 y 40 o mayores a 40 años, o por ejemplo si están dentro del rango de edad mayor 60-80. Este tipo de información puede estar representada en un mapa de árbol, donde se logre visualizar las cantidades para cada categoría de edad a través del tamaño del área y su respectivo color. Así, se puede ver fácilmente como las personas con las que más me relaciono son aquellas que tienen mis mismos años.
 
