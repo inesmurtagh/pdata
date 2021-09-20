@@ -30,4 +30,6 @@ Cada uno de estos datos fue obtenido empíricamente. Cabe destacar que el nombre
 **Se quiere mostrar**
 un análisis de las características de las personas que son saludadas, como por ejemplo cuántas de ellas son mujeres o cuántas son varones, como son sus edades y a que rango pertenecen, cuál es su color de pelo, o cuántas de estas son consideradas como conocidos o desconocidos, entre otras.
 
-Por ejemplo, al cabo de la primer semana
+Por ejemplo, al cabo de la primer semana 
+
+![image](mujeresvshombres.png)
