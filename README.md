@@ -26,6 +26,8 @@ La idea del trabajo consiste en poder visualizar a partir de datos recolectados 
 
 Cada uno de estos datos fue obtenido empíricamente. Cabe destacar que el nombre, la edad, el sexo y el color de pelo son todas características propias de la persona a la qué saludé. Las distintas categorías en las cuales puede estar ubicada una persona pueden ser: familiar, amigo, conocido (en el caso qué yo conozca a esta persona pero no sea parte de mi familia o de mis amistades) y desconocido. Por último, las coordenadas fueron recolectadas mediante Google Maps, utilizando geolocalizadores en el momento de encuentro con alguien, y su respectiva hora de encuentro.
 
+![mapa con puntos geolocalizados](mapa.png)
+
 ##
 **Se quiere mostrar**
 un análisis de las características de las personas que son saludadas, como cuántas de ellas son mujeres o cuántas son varones, como son sus edades y a que rango pertenecen, cuál es su color de pelo, o cuántas de estas son consideradas como conocidos o desconocidos, entre otras.
