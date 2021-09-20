@@ -34,6 +34,6 @@ A modo de ejemplo, se podría mencionar un dato sumamente destacable, y este es 
 
 ![porcentaje de mujeres saludadas](mujeresvshombres.png)
 
-Además, es interesante poder notar en que rango de edad caen las personas que saludo. Si están ubicadas dentro de los menores de 18 años (0-18), o son personas entre los 18 y 25 (mi rango de edad), o si son adultos mayores a 40 años, por ejemplo.
+Además, es interesante poder notar en que rango de edad caen las personas que saludo. Si están ubicadas dentro de los menores de 18 años (0-18), o son personas entre los 18 y 25 (mi rango de edad), si son adultos entre los 24 y 40 o mayores a 40 años, o por ejemplo si están dentro del rango de edad mayor 60-80.
 
 ![personas por rango de edad](rangoedad.png)
