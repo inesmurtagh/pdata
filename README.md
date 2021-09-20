@@ -8,7 +8,7 @@ CANTIDAD DE PERSONAS QUÉ SALUDO CADA DÍA, EN UNA SEMANA
 
 **Introducción**
 
-La idea del trabajo consiste en poder visualizar a partir de datos recolectados a mano, en cada día de la semana, cuántas personas saludé. Se busca hacer esta acción por un mes. Poder analizar las características de las personas que son saludadas, cuántas de ellas son mujeres o cuántas son varones, como son sus edades, cuál es su color de pelo, o cuántas de estas son consideradas como conocidos o desconocidos, entre otras.
+La idea del trabajo consiste en poder visualizar a partir de datos recolectados a mano, para cada día de la semana, cuántas personas saludé. Poder escribir en el momento de encuentro con una persona, la fecha de ese día, el lugar y el horario del saludo, además de todos los atributos que le correspondan a ella. Se busca realizar esta acción por un mes, es decir, por 4 semanas seguidas.
 
 ###### El trabajo fue comenzado el día lunes 23/08/2021
 
@@ -28,3 +28,6 @@ Cada uno de estos datos fue obtenido empíricamente. Cabe destacar que el nombre
 
 ##
 **Se quiere mostrar**
+un análisis de las características de las personas que son saludadas, como por ejemplo cuántas de ellas son mujeres o cuántas son varones, como son sus edades y a que rango pertenecen, cuál es su color de pelo, o cuántas de estas son consideradas como conocidos o desconocidos, entre otras.
+
+Por ejemplo, al cabo de la primer semana
