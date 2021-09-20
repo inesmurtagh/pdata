@@ -40,3 +40,7 @@ Además, es interesante poder notar en que rango de edad caen las personas que s
 
 ![personas por rango de edad](rangoedad.png)
 
+Siguiendo con el análisis, es notorio también destacar si dentro de la cantidad registrada, son mayoría aquellas personas que son conocidas, familiares o amigos, o si suelo ser más amigable con aquellas personas que caen en la categoría de desconocidos.
+
+![amigo, familiar, conocido, desconocido](categoria.png)
+
