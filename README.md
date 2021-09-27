@@ -3,7 +3,7 @@
 
 CANTIDAD DE PERSONAS QUÉ SALUDO CADA DÍA, EN UNA SEMANA
 
-[Recolección de datos](datospersonales.csv)
+[Recolección de datos](data.csv)
 ##
 
 **Introducción**
