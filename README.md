@@ -44,3 +44,6 @@ Siguiendo con el análisis, es notorio también destacar si dentro de la cantida
 
 ![amigo, familiar, conocido, desconocido](categoria.png)
 
+##
+
+[acá](https://inesmurtagh.github.io/pdata/datospersonales.html)
