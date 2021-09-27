@@ -48,3 +48,11 @@ Siguiendo con el análisis, es notorio también destacar si dentro de la cantida
 Como puede ser visto, se puede llevar un análisis profundo de los datos recolectados, para obtener interesantes conclusiones.
 
 El trabajo final se puede ver en [este link](https://inesmurtagh.github.io/pdata/datospersonales.html)
+
+
+##
+
+###### Dejo aquí el link a la presentación del día 27/09/2021
+
+###### [Video Entrega](https://drive.google.com/file/d/1RoIciAzBq0pAejQE1QOFCt5DxIMll2T_/view?usp=sharing)
+
