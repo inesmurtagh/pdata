@@ -45,5 +45,6 @@ Siguiendo con el análisis, es notorio también destacar si dentro de la cantida
 ![amigo, familiar, conocido, desconocido](categoria.png)
 
 ##
+Como puede ser visto, se puede llevar un análisis profundo de los datos recolectados, para obtener interesantes conclusiones.
 
-[acá](https://inesmurtagh.github.io/pdata/datospersonales.html)
+El trabajo final se puede ver en [este link](https://inesmurtagh.github.io/pdata/datospersonales.html)
